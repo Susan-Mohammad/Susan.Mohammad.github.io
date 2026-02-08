@@ -1,0 +1,65 @@
+---
+title: "Projects"
+page-layout: full
+---
+
+
+A selection of initiatives demonstrating process transformation, automation, and risk optimization.
+
+---
+
+
+## Authentication Process Automation
+**Problem**  
+Manual onboarding created delays and high support workload.
+
+**Action**  
+Applied DMAIC, redesigned workflow, automated validation inside the system.
+
+**Impact**  
+Reduced cycle time, lowered support effort, improved customer experience.
+
+---
+
+## Survey Workflow Automation (Power Platform)
+**Problem**  
+Manual surveys caused delays and inconsistent feedback collection.
+
+**Action**  
+Built automated intake and distribution workflow using Power Apps + SharePoint.
+
+**Impact**  
+~90% reduction in coordination effort and centralized analytics.
+
+---
+
+## SharePoint Performance Tracking System
+**Problem**  
+Tracking in spreadsheets limited visibility and scalability.
+
+**Action**  
+Migrated to SharePoint and built KPI dashboards.
+
+**Impact**  
+Real-time monitoring and improved team productivity.
+
+---
+
+# Risk & Compliance Optimization
+
+## Escheatment Process Transformation
+Facilitated workshops, mapped AS-IS/TO-BE, identified risks, and embedded preventive controls.  
+**Result:** stronger governance and reduced compliance exposure.
+
+---
+
+## Restitution Process Redesign
+Standardized workflows across teams and third parties, clarified ownership, and documented controls.  
+**Result:** improved audit readiness and operational consistency.
+
+---
+
+## RCSA Workshops
+Led cross-functional risk assessments to proactively identify and mitigate operational risks.  
+**Result:** embedded controls directly into process design.
+

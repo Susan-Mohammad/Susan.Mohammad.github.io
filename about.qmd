@@ -1,0 +1,21 @@
+---
+title: "About Me"
+---
+
+
+I bridge the gap between technical solutions and business outcomes by translating complex requirements into actionable strategies. My methodology combines:
+
+## Structured Problem-Solving Framework
+I apply hypothesis-driven analysis, DMAIC (Define, Measure, Analyze, Improve, Control), and Lean Six Sigma principles to systematically deconstruct ambiguous problems and identify root causes.
+
+## Data-Informed Decision Making
+I leverage analytics reports to move beyond intuition, creating evidence-based recommendations that align with strategic business objectives.
+
+## Change Leadership
+I design adoption strategies that address both technical implementation and human factors, ensuring sustainable transformation through stakeholder engagement and targeted communication.
+
+## Technical Toolkit
+- **Process Optimization**: Lean Six Sigma Black Belt, Process Mapping, Value Stream Analysis
+- **Automation & Technology**: Power Platform (Power Apps, Power Automate), SharePoint, RPA
+- **Analytics & Visualization**: KPI Development, Dashboard Design, Performance Metrics
+- **Risk Management**: RCSA Facilitation, Control Design, Compliance Integration

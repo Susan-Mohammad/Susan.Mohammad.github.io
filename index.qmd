@@ -1,0 +1,82 @@
+---
+title: "Susan.Mohammad"
+page-layout: full
+---
+
+# Hi — I’m Susan
+
+I’m a **Process Transformation and Continuous Improvement professional** with 7+ years of experience leading enterprise process optimization, automation, and risk-reduction initiatives across **banking, fintech, retail, and technology environments**.
+
+I specialize in turning complex, manual, and ambiguous operations into **scalable, data-driven, and efficient systems** through process redesign, workflow automation, and analytics.
+
+My work sits at the intersection of:
+
+- Process Improvement & Operational Excellence  
+- Automation & Digital Transformation  
+- Risk & Compliance Optimization  
+- Data Analytics & KPI Reporting  
+- Cross-functional Leadership & Change Management  
+
+---
+
+## What I Do
+
+I help teams and organizations:
+
+✔ Streamline inefficient workflows  
+✔ Reduce operational and compliance risk  
+✔ Automate manual processes  
+✔ Implement scalable tools and systems  
+✔ Use data to drive better decisions  
+✔ Lead stakeholders through complex change  
+
+---
+
+## Selected Impact
+
+A few examples of outcomes I’ve delivered:
+
+- Reduced manual coordination effort by **~90%** through workflow automation (Power Platform)
+- Increased operational productivity by **35–75%** through process redesign initiatives
+- Built KPI dashboards enabling real-time performance visibility for leadership
+
+---
+
+## How I Work
+
+My approach combines structured problem solving with practical execution:
+
+**Define → Measure → Analyze → Improve → Control (Lean Six Sigma / DMAIC)**
+
+I focus on:
+- understanding the root cause  
+- aligning stakeholders  
+- simplifying processes  
+- embedding automation  
+- delivering measurable, sustainable results  
+
+---
+
+## Explore My Work
+
+You can view examples of my projects here:
+
+- **Transformation Projects** – workflow automation & digital solutions  
+- **Risk & Compliance Optimization** – enterprise process and control design  
+- **Analytics & Tools** – dashboards, reporting, and technical implementations  
+
+
+---
+
+## Skills & Tools
+
+**Methods:** Lean Six Sigma Black Belt, DMAIC, Process Mapping, RCSA  
+**Tools:** Power Platform, SharePoint, Power BI, Excel, SQL, R, GitHub, Quarto  
+**Strengths:** Stakeholder facilitation, executive communication, change leadership, data storytelling  
+
+---
+
+### Let’s connect
+I’m passionate about helping organizations solve operational problems and build smarter, more resilient processes.
+
+My email address: susanmohammadk22@gmail.com
