@@ -14,15 +14,21 @@ website:
         text: About
       - href: contact.qmd
         text: Contact
-      
+    right:
+      - icon: github
+        href: https://github.com/susan-mohammad
+      - icon: linkedin
+        href: https://linkedin.com/in/susan-mohammad
+      - icon: envelope
+        href: mailto:susanmohammadk22@gmail.com
+
 
 format:
   html:
-    theme:
-      - flatly
-      - brand
+    theme: flatly
     css: styles.css
-    toc: true
+    toc: false
+    toc-depth: 2
 
 editor: visual
 
